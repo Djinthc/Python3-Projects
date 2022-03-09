@@ -1,3 +1,5 @@
+##   XVI Olimpiada Informatyczna - Zadanie "Bajtackie Zoo"
+
 def poprzestawiajSlonie(plik):
 
 ## Listy
