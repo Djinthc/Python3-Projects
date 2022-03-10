@@ -1,3 +1,5 @@
+# HackerRank preparation
+
 def matchingStrings(strings, queries):
     results =[]
     for i in queries:
