@@ -1,3 +1,6 @@
+# HackerRank preparation
+
+
 def flippingMatrix(matrix):
     for i in range
     x = matrix[0].index(max(matrix[0]))
