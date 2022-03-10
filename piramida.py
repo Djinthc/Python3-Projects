@@ -1,3 +1,5 @@
+# Bardzo ciekawe zadanie mające na celu zbudowanie piramidy z klocków.
+
 c0 = int(input("Napisz liczbę: "))
 count = 0
 
