@@ -1,3 +1,5 @@
+# HackerRank preparation
+
 def pageCount(n, p):
     if n % 2==0:
         n += 1
