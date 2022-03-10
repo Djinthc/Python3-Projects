@@ -1,4 +1,4 @@
-## Najlepsze wyniki MENU
+## Najlepsze wyniki MENU. Program powstał podczas pracy z książką Michela Dawsona "Python dla każdego" polecam!
 
 wyniki = []
 wybor = None
