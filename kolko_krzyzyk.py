@@ -1,3 +1,7 @@
+# Tik TAk Toe v 0.001 alpha xd
+
+
+
 import random
 wolnePola = []
 board = [["1","2","3",],
