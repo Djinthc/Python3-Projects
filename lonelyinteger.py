@@ -1,3 +1,5 @@
+# # HackerRank preparation
+
 def lonelyinteger(a):
     for i in a:
         x = a.index(i)
