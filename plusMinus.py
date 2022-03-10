@@ -1,3 +1,4 @@
+# HackerRank preparation
 def plusMinus(arr):
     positive = 0
     negative = 0
